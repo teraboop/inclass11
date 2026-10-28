@@ -1,17 +1,7 @@
-# inclass11
+Critical thinking:
 
-A new Flutter project.
+1. In my app changing from pushReplace to push then trying to navigate back to the form screen results in the form screen being stuck in the submitting state. I'm not sure what the other part of the question is asking?
 
-## Getting Started
+2. In my app the password and date fields go below the screen boundary and their values are held as variables in their respective controllers. The easiest fix would be to wrap the fields or the entire screen in a scroll box to allow access and display of the items that disappear.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
